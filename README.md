@@ -13,3 +13,6 @@
 
 # Constancia de Inglés A2.2
 ![English A2 2 (abril)___Constancia](https://user-images.githubusercontent.com/54081927/117330176-08555880-ae5b-11eb-9030-2d3338c02261.jpg)
+
+# Constancia de Liderazgo en el Siglo XXI
+![Liderazgo (abril)_Constancia](https://user-images.githubusercontent.com/54081927/117330348-35097000-ae5b-11eb-8dcf-c446f2f8ce7b.jpg)
