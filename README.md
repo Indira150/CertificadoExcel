@@ -7,3 +7,6 @@
 
 # Constancia de la Introducción a la Minería de Datos
 ![Minería de datos](https://user-images.githubusercontent.com/54081927/117329144-f7581780-ae59-11eb-9e68-4f0eb2c8c3c7.jpg)
+
+# Constancia de Como dejar el Copy - Paste
+![Copy-Paste (abril)_Constancia](https://user-images.githubusercontent.com/54081927/117329992-d6dc8d00-ae5a-11eb-8425-e4951a41fc8d.jpg)
