@@ -10,3 +10,6 @@
 
 # Constancia de Como dejar el Copy - Paste
 ![Copy-Paste (abril)_Constancia](https://user-images.githubusercontent.com/54081927/117329992-d6dc8d00-ae5a-11eb-8425-e4951a41fc8d.jpg)
+
+# Constancia de Inglés A2.2
+![English A2 2 (abril)___Constancia](https://user-images.githubusercontent.com/54081927/117330176-08555880-ae5b-11eb-9030-2d3338c02261.jpg)
