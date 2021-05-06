@@ -4,3 +4,6 @@
 
 # Constancia de Excel Avanzado
 ![Excel avanzado](https://user-images.githubusercontent.com/54081927/117328061-e529a980-ae58-11eb-8cf6-3b6474168d7c.jpg)
+
+# Constancia de la Introducción a la Minería de Datos
+![Minería de datos](https://user-images.githubusercontent.com/54081927/117329144-f7581780-ae59-11eb-9e68-4f0eb2c8c3c7.jpg)
