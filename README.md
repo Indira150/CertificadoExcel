@@ -18,3 +18,6 @@
 
 # Constancia de Programación Básica con Python
 ![Programación con Python](https://user-images.githubusercontent.com/54081927/117330510-62eeb480-ae5b-11eb-8255-2b85f194907a.jpg)
+
+# Certiicado WORKSHOP ONLINE: IMPLEMENTANDO Y COMPARTIENDO DASHBOARDS CON POWER BI
+![ppower](https://user-images.githubusercontent.com/54081927/134833539-f3714f67-324d-4fa6-bf32-138fed98023e.jpg)
