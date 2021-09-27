@@ -19,5 +19,8 @@
 # Constancia de Programación Básica con Python
 ![Programación con Python](https://user-images.githubusercontent.com/54081927/117330510-62eeb480-ae5b-11eb-8255-2b85f194907a.jpg)
 
+# Certiicado WORKSHOP ONLINE: IMPLEMENTACIÓN DE DASHBOARDS CON COMPLEMENTOS EXCEL
+![power1](https://user-images.githubusercontent.com/54081927/134834700-9ec4e658-74ff-46ef-aef7-28030047ae2d.jpg)
+
 # Certiicado WORKSHOP ONLINE: IMPLEMENTANDO Y COMPARTIENDO DASHBOARDS CON POWER BI
 ![ppower](https://user-images.githubusercontent.com/54081927/134833539-f3714f67-324d-4fa6-bf32-138fed98023e.jpg)
