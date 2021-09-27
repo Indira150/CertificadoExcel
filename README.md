@@ -19,6 +19,9 @@
 # Constancia de Programación Básica con Python
 ![Programación con Python](https://user-images.githubusercontent.com/54081927/117330510-62eeb480-ae5b-11eb-8255-2b85f194907a.jpg)
 
+# Certiicado WORKSHOP ONLINE: ANÁLISIS Y MODELAMIENTO DE NEGOCIOS
+![power3](https://user-images.githubusercontent.com/54081927/134835269-0a1b8968-cc6d-4fc2-916e-3990423b0fd4.jpg)
+
 # Certiicado WORKSHOP ONLINE: IMPLEMENTACIÓN DE DASHBOARDS CON COMPLEMENTOS EXCEL
 ![power1](https://user-images.githubusercontent.com/54081927/134834700-9ec4e658-74ff-46ef-aef7-28030047ae2d.jpg)
 
