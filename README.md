@@ -27,3 +27,6 @@
 
 # Certiicado WORKSHOP ONLINE: IMPLEMENTANDO Y COMPARTIENDO DASHBOARDS CON POWER BI
 ![ppower](https://user-images.githubusercontent.com/54081927/134833539-f3714f67-324d-4fa6-bf32-138fed98023e.jpg)
+
+# Certiicado WORKSHOP ONLINE: ANALIZANDO MÉTRICAS CON FUNCIONES DAX
+![metricas](https://user-images.githubusercontent.com/54081927/142053984-1a1c7c1b-9d95-4d6e-93fc-0d2134885fc3.jpg)
