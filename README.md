@@ -30,3 +30,6 @@
 
 # Certiicado WORKSHOP ONLINE: ANALIZANDO MÉTRICAS CON FUNCIONES DAX
 ![metricas](https://user-images.githubusercontent.com/54081927/142053984-1a1c7c1b-9d95-4d6e-93fc-0d2134885fc3.jpg)
+
+# Certiicado del Curso: ESPECIALIZACIÓN EN BUSINESS ANALYTICS CON EXCEL Y POWER BI
+![RODRIGUEZ ISIDRO, INDIRA LEONELA ](https://user-images.githubusercontent.com/54081927/144479806-016eed8b-e0fb-4e9b-abba-57c183e1414b.jpg)
