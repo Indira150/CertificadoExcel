@@ -35,4 +35,4 @@
 ![RODRIGUEZ ISIDRO, INDIRA LEONELA ](https://user-images.githubusercontent.com/54081927/144479806-016eed8b-e0fb-4e9b-abba-57c183e1414b.jpg)
 
 # Certificado PUCP
-[Certificado SQL SERVER.pdf](https://github.com/Indira150/CertificadoExcel/files/14425209/Certificado.SQL.SERVER.pdf)
+![image](https://github.com/Indira150/CertificadoExcel/assets/54081927/35230173-903a-4084-a89c-d48df2da2e79)
