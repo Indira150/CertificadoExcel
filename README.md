@@ -33,3 +33,6 @@
 
 # Certiicado del Curso: ESPECIALIZACIÓN EN BUSINESS ANALYTICS CON EXCEL Y POWER BI
 ![RODRIGUEZ ISIDRO, INDIRA LEONELA ](https://user-images.githubusercontent.com/54081927/144479806-016eed8b-e0fb-4e9b-abba-57c183e1414b.jpg)
+
+# Certificado PUCP
+https://github.com/Indira150/CertificadoExcel/blob/main/Certificado%20SQL%20SERVER.pdf
